@@ -1,8 +1,7 @@
 # SeisCO2Net
-Codes/Notebooks for Time-lapse seismic inversion for CO2 saturation with SeisCO2Net: An application to Frio-II site
-
-
 Here, you can find the realistic synthetic datasets (seismic gathers and corresponding CO2 maps) used for the study.
+
+
 
 
 
