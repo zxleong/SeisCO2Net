@@ -2,7 +2,7 @@
 Here, you can find the realistic Frio-II synthetic datasets (seismic gathers and corresponding CO2 maps) used for the study.
 
 IMPORTANT:
-1) Download and unzip data/ from this link:
+1) Download and unzip data/ from this link: https://1drv.ms/u/s!ArvGvWeFZNX06kaI9F-08RXlp42I?e=1bOjLg
 2) Download and unzip mrst-2022a/ from this link: https://1drv.ms/u/s!ArvGvWeFZNX06kWDjoTKThQY9gxs?e=1E05np
 
 Quick note:
